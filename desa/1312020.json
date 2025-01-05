@@ -1,1 +1,1 @@
-{"status_code":200,"result":{"count":2,"items":[{"id":"1312020001","nama":"DESA BARU"},{"id":"1312020002","nama":"BATAHAN"}]}}
+{"status_code":200,"result":{"count":7,"items":[{"id":"1312020001","nama":"DESA BARU"},{"id":"1312020002","nama":"BATAHAN"},{"id":"1312020003","nama":"DESA BARU BARAT"},{"id":"1312020004","nama":"BATAHAN UTARA"},{"id":"1312020005","nama":"BATAHAN TENGAH"},{"id":"1312020006","nama":"BATAHAN BARAT"},{"id":"1312020007","nama":"BATAHAN SELATAN"}]}}

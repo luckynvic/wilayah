@@ -1,1 +1,1 @@
-{"status_code":200,"result":{"count":5,"items":[{"id":"1509024001","nama":"KELURAHAN BUNGO BARAT"},{"id":"1509024002","nama":"KELURAHAN BATANG BUNGO"},{"id":"1509024003","nama":"KELURAHAN BUNGO TIMUR"},{"id":"1509024004","nama":"KELURAHAN JAYA SETIA"},{"id":"1509024005","nama":"KELURAHAN TANJUNG GEDANG"}]}}
+{"status_code":200,"result":{"count":5,"items":[{"id":"1509024001","nama":"BUNGO BARAT"},{"id":"1509024002","nama":"BATANG BUNGO"},{"id":"1509024003","nama":"BUNGO TIMUR"},{"id":"1509024004","nama":"JAYA SETIA"},{"id":"1509024005","nama":"TANJUNG GEDANG"}]}}
